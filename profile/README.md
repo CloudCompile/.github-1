@@ -26,8 +26,8 @@ Whether you're running a single local model or deploying production AI workloads
 
 ## 🚀 Products
 
-| | |
-|:---|:---|
+| Our Products | What they do |
+| --- | --- |
 | 🧠 **Inference Platform** | Run AI locally or in the cloud with one unified experience. |
 | 🛡️ **Shield** | Security, governance, policy enforcement, and AI protection. |
 | 🔧 **Tool Registry** | Discover, publish, and manage tools for AI agents. |
